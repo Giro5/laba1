@@ -1,0 +1,7 @@
+C:\Users\Giro\source\repos\laba1\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\Giro\source\repos\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\Giro\source\repos\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\Giro\source\repos\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\Giro\source\repos\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\Giro\source\repos\laba1\laba1\obj\Debug\laba1.pdb
